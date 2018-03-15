@@ -1,9 +1,11 @@
 ---
 title: Template Chapter 1
-description: This is a template chapter.
----
+description: >-
+  This is a template chapter.
 
-## Ex 1.1
+
+---
+## The Very Basics of SQL
 
 ```yaml
 type: NormalExercise
@@ -13,7 +15,9 @@ skills: 1
 key: 996049c965
 ```
 
-Do some data science.
+At its core, SQL is an expressive programming language, allowing you to issue commands that make sense in plain English. Or, at least that's how I like to think about SQL.
+
+
 
 `@instructions`
 
@@ -21,26 +25,11 @@ Do some data science.
 `@hint`
 
 
-`@pre_exercise_code`
 
-```{python}
 
-```
 
-`@sample_code`
 
-```{sql}
 
-```
 
-`@solution`
 
-```{python}
 
-```
-
-`@sct`
-
-```{sql}
-
-```
