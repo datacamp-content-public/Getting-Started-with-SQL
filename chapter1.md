@@ -1,7 +1,7 @@
 ---
-title: Template Chapter 1
+title: The Very Basics of SQL
 description: >-
-  This is a template chapter.
+  
 
 
 ---
@@ -31,10 +31,7 @@ Write a query to fetch all the information for each movie in the database.
 ```{sql}
 select * from movies;
 ```
-`@sct`
-```{python}
-select * from movies;
-```
+
 
 
 
