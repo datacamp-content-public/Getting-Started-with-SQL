@@ -1,6 +1,8 @@
 ---
-title       : Something a little more in-depth
-description : Learning things about SQL
+title: Something a little more in-depth
+description: >-
+  Learning things about SQL
+
 
 ---
 ## WHERE clauses
@@ -20,8 +22,6 @@ Say you have a table `movies`. The table contains columns for `id`, `title`, `re
 
 Write a query to fetch all the information for each movie in the database that was released after 1950.
 
-`@hint`
-
 
 
 
@@ -30,16 +30,45 @@ Write a query to fetch all the information for each movie in the database that w
 select * from movies WHERE release_year > 1950;
 ```
 
+
+
+
+
+
 ---
 ## A Video Exercise on SQL
 
 ```yaml
 type: VideoExercise
-key: 142894c0a8
 lang: sql
 xp: 50
 skills: 1
-video_link: player.vimeo.com/video/154783078
+key: 142894c0a8
 ```
+
+`@projector_key`
+undefined
+
+---
+## Insert exercise title here
+
+```yaml
+type: TabExercise
+
+xp: undefined
+
+key: 6262ceec52
+```
+
+
+
+
+
+
+
+
+
+
+
 
 
